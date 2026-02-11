@@ -1,5 +1,5 @@
 # capestone-project
-#Objective 
+# Objective:
 The objective is to analyze the different is service usage by subscribers and causal users
 and patterns that support data-driven decision-making.
 
@@ -9,7 +9,7 @@ in order to know if casual users could be converted to subscribers. This capston
 be done using R programming language to analised the datasets, prepare them, combine them into one single dataset
 then cleaning, analysing and visualisation.
 
-# tool
+# tool:
 R
 install.packages("tidyverse")
 install.packages("lubridate")
