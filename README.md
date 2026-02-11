@@ -1,4 +1,4 @@
-# caption-project
+# capestone-project
 #Objective 
 The objective is to analyze the different is service usage by subscribers and causal users
 and patterns that support data-driven decision-making.
